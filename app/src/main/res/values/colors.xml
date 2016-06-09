@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="teal_dark">#009688</color>
+    <color name="teal_light">#60009688</color>
+    <color name="deep_purple_dark">#673AB7</color>
+    <color name="deep_purple_light">#60673AB7</color>
+    <color name="red_dark">#F44336</color>
+    <color name="red_light">#60F44336</color>
+    <color name="horizontal_rule">#EDEDED</color>
+</resources>
